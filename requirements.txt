@@ -1,0 +1,10 @@
+# Install PyTorch first from https://pytorch.org, choosing the CUDA build for your GPU.
+# Tested with torch 2.14.1 and torchvision 0.29.1 (CUDA 13.2).
+torch
+torchvision
+numpy
+pillow
+matplotlib
+scikit-learn
+grad-cam
+ipykernel
